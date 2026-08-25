@@ -47,32 +47,6 @@
       ]
     },
     {
-      "identifier": "10",
-      "name": "Good Love",
-      "publisher": "Devroma",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "animated_sticker_pack": false,
-      "tray_image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/0.png",
-      "stickers": [
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/1.webp", "emojis": ["😎"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/2.webp", "emojis": ["✨"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/3.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/4.webp", "emojis": ["👍"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/5.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/6.webp", "emojis": ["✅"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/7.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/8.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/9.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/10.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/11.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/12.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/13.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/14.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Devroma-StickerArabhh@mainstickerArabhh/10/15.webp", "emojis": ["❤️"] }
-      ]
-    },
-    {
       "identifier": "11",
       "name": "Love you",
       "publisher": "Devroma",
